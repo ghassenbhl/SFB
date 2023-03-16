@@ -1,0 +1,9 @@
+api_platform:
+  collection:
+    pagination:
+      page_parameter_name: _pagina
+  swagger:
+    api_keys:
+      JWT:
+        name: Authorization
+        type: header
